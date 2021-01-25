@@ -1,0 +1,12 @@
+# 训练的模型不进行保存
+train_model/*
+# 数据集不保存
+dataset/*.npy
+
+*.pyc
+*.pth
+*.npy
+*.npz
+*.png
+*/__pycache__/*
+.vscode/*
